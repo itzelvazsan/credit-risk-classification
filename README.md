@@ -15,7 +15,7 @@ On the repository you'll find a folder named Credir_Risk, which contains:
 | ----- | -------------------  | ------------------------------ | -------------------------------------------------------  |
 |   1   | Jupyter Notebook     |  credit_risk_classification    |  Jupyter notebook with answers to the challenge          |
 |   2   |   Markdown file      |   Report                       | The markdown shows the anlaysis and the main conclusions |
-|   4   |   folder             |          Resources             | Contains the csv file "lending_data.csv"                 |
+|   3   |   folder             |          Resources             | Contains the csv file "lending_data.csv"                 |
 
 ## How to Use the Project
 
