@@ -19,7 +19,7 @@ On the repository you'll find a folder named Credir_Risk, which contains:
 
 ## How to Use the Project
 
-* Open Jupyter Notebook, follow the code and comprae the answers with the writte analysis.
+* Open the Jupyter Notebook, execute the code, and compare the results with the written analysis.
 
 ## Credits
 The code of this project origins from: starter code provided by the Team of the Data Analysis and Visualization Bootcamp, the solved exercises worked in the Zoom Lessons, [Stackoverflow](https://stackoverflow.com/), and Microsoft Copilot.
